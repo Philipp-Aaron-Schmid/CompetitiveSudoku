@@ -2,7 +2,8 @@
 
 ## Inhaltsverzeichnis
 - [Description](#Description)
-- [Voraussetzungen](#voraussetzungen)
+- [UserStoriesBasics](#UserStoriesBasics)
+- [UserStories](#UserStories)
 - [Installation](#installation)
 - [Verwendung](#verwendung)
 - [Dokumentation](#dokumentation)
@@ -17,33 +18,6 @@ Roles:
   Admin: Delete Users/Edit scores/Set Challenges
   Users:  PlayChalanges/viewLeader Board
 
-## User Stories Basics
-Role: This is the user or the entity for whom the feature is being developed. It could be a specific user type, like an admin, customer, or guest.
-Feature: This describes the functionality or capability that the user is seeking. It's a brief, high-level description of what needs to be done.
-Reason/Benefit: This explains why the user wants the feature and what value or benefit it brings. It provides context and helps the development team understand the purpose behind the feature.
-
-## User Stories
-Who: Admin  
-What: setChallange
-Why: to
-Aceptance Criteria:
-
-What: 
-Why: to
-Aceptance Criteria:
-
-Who: User
-What: playSudoku
-Why: to
-Aceptance Criteria:
-
-What: viewHighscores
-Why: to
-Aceptance Criteria:
-
-What: viewOwnscores
-Why: to
-Aceptance Criteria:
 
 ## Installation
  
