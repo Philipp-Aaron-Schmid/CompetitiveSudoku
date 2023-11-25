@@ -23,10 +23,27 @@ Feature: This describes the functionality or capability that the user is seeking
 Reason/Benefit: This explains why the user wants the feature and what value or benefit it brings. It provides context and helps the development team understand the purpose behind the feature.
 
 ## User Stories
-Who: Admin
+Who: Admin  
 What: setChallange
 Why: to
-Aceptance Criteria: 
+Aceptance Criteria:
+
+What: 
+Why: to
+Aceptance Criteria:
+
+Who: User
+What: playSudoku
+Why: to
+Aceptance Criteria:
+
+What: viewHighscores
+Why: to
+Aceptance Criteria:
+
+What: viewOwnscores
+Why: to
+Aceptance Criteria:
 
 ## Installation
  
