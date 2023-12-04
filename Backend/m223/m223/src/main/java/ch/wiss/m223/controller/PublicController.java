@@ -1,14 +1,14 @@
-package ch.wiss.m223;
+package ch.wiss.m223.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
-public class PrivateController {
+public class PublicController {
 
-    @GetMapping("/private")
+    @GetMapping("/public")
     public ResponseEntity<String> getGreeting() {
-        return ResponseEntity.ok("hello private World");
+        return ResponseEntity.ok("hello Public World");
     }
 }

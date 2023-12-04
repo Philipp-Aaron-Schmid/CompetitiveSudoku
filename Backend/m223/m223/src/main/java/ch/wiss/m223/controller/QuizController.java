@@ -1,14 +1,14 @@
-package ch.wiss.m223;
+package ch.wiss.m223.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
-public class PublicController {
+public class QuizController {
 
-    @GetMapping("/public")
+    @GetMapping("/quiz")
     public ResponseEntity<String> getGreeting() {
-        return ResponseEntity.ok("hello Public World");
+        return ResponseEntity.ok("hello Quiz");
     }
 }
